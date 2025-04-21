@@ -1,4 +1,4 @@
-# Pauls Place Project
+# Pauls Place Health Risk Predictive Modelling Project
 ## Overview
 
 This project and our geospatial project [link](https://github.com/paulsplacemd/Geospatialproject.git) aim to identify and understand healthcare issues and its un-accessibility in Southwest Baltimore using data science techniques. By analyzing spatial disparities, environmental factors, and community health outcomes, we aim to provide insights that can support data-driven interventions and equitable resource distribution for underserved communities. This work is in collaboration with Dr. Megan, the Program Lead for Health and Wellness at Paul’s Place.
